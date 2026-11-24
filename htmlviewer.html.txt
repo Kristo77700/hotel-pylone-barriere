@@ -1,4 +1,607 @@
-The URL you entered is not correctly formatted.<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hôtel Pylones Paris & Casino Barrière | Site Officiel</title><link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,900;1,800;1,900&family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,400&display=swap" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"><style>:root{--pylones-orange:#E85D26;--pylones-pink:#E92672;--pylones-yellow:#FACB11;--pylones-cyan:#0DB3D3;--barriere-gold:#B89758;--barriere-black:#121214;--barriere-card:#1A1A1E}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Montserrat,sans-serif;background:#fff;color:#222;scroll-behavior:smooth}header{position:fixed;top:0;left:0;right:0;z-index:1000;background:#fff;box-shadow:0 4px 15px rgba(0,0,0,.08);display:flex;justify-content:space-between;align-items:center;padding:12px 50px}.dual-brand{display:flex;align-items:center;gap:25px;cursor:pointer}.barriere-logo-wrap{display:flex;flex-direction:column;align-items:center;line-height:1}.barriere-b{font-family:'Playfair Display',serif;font-size:2rem;color:var(--barriere-gold);position:relative;font-weight:700}.barriere-b::after{content:"✦";font-size:.7rem;position:absolute;bottom:3px;right:-8px;color:var(--barriere-gold)}.barriere-name{font-size:.95rem;letter-spacing:4px;color:#000;font-weight:700;margin-top:2px}.brand-divider{height:35px;width:1px;background-color:#ddd}.pylones-logo-wrap{display:flex;flex-direction:column;line-height:1}.pylones-name{font-size:1.8rem;font-style:italic;font-weight:900;color:var(--pylones-orange);letter-spacing:.5px;text-transform:uppercase}.pylones-sub{font-size:.65rem;color:var(--pylones-orange);font-weight:400;letter-spacing:1px;margin-top:1px}nav a{text-decoration:none;margin:0 15px;font-size:.9rem;font-weight:700;transition:.3s}nav a.link-hotel{color:var(--pylones-orange)}nav a.link-casino{color:var(--barriere-gold)}.header-actions{display:flex;align-items:center;gap:15px}.cart-btn{background:#fff2eb;border:2px solid var(--pylones-orange);color:var(--pylones-orange);padding:8px 16px;border-radius:20px;font-weight:700;cursor:pointer;display:flex;align-items:center;gap:8px}.cart-badge{background:var(--pylones-pink);color:#fff;font-size:.75rem;padding:2px 7px;border-radius:50%}.btn-reservation{background-color:var(--pylones-orange);color:#fff;padding:12px 28px;border-radius:50px;font-weight:800;border:none;cursor:pointer;box-shadow:0 4px 15px rgba(232,93,38,.4);transition:.3s}.btn-reservation:hover{transform:translateY(-2px);background-color:#d04d1b}.hero{margin-top:75px;min-height:72vh;display:flex;position:relative}.hero-left{flex:1.1;background-color:#fff9f6;padding:70px;display:flex;flex-direction:column;justify-content:center;background-image:radial-gradient(var(--pylones-yellow) 12px,transparent 13px),radial-gradient(var(--pylones-pink) 10px,transparent 11px),radial-gradient(var(--pylones-cyan) 8px,transparent 9px),radial-gradient(var(--pylones-orange) 14px,transparent 15px);background-size:180px 180px,140px 140px,120px 120px,200px 200px;background-position:20px 20px,80px 40px,130px 100px,50px 120px}.tag-pylones-hotel{background-color:var(--pylones-orange);color:#fff;font-weight:800;padding:6px 18px;border-radius:20px;display:inline-block;font-size:.85rem;margin-bottom:15px;width:fit-content}.hero-left h1{font-size:3.2rem;font-weight:900;line-height:1.15;color:#222;margin-bottom:20px}.hero-left h1 span.orange{color:var(--pylones-orange)}.hero-left p{font-size:1.15rem;color:#555;max-width:520px;line-height:1.7;margin-bottom:30px}.hero-right{flex:.9;background:linear-gradient(rgba(18,18,20,.8),rgba(74,14,23,.85)),url(https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=1000&q=80) center/cover;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:50px;color:#fff;border-left:6px solid var(--barriere-gold)}.hero-right h2{font-family:'Playfair Display',serif;font-size:2.8rem;color:var(--barriere-gold);margin-bottom:15px}.hero-right p{font-size:1rem;max-width:400px;color:#ddd;line-height:1.6}.quick-booking-container{max-width:1100px;margin:-35px auto 40px;position:relative;z-index:20;padding:0 20px}.quick-booking-bar{background:#fff;border-radius:15px;box-shadow:0 10px 30px rgba(0,0,0,.12);padding:20px 30px;display:flex;gap:20px;align-items:flex-end;border:2px solid #fff2eb}.form-group{flex:1;display:flex;flex-direction:column}.form-group label{font-size:.75rem;font-weight:800;text-transform:uppercase;margin-bottom:5px;color:#555}.form-group input,.form-group select{padding:10px;border:1px solid #ddd;border-radius:8px;font-family:inherit;font-weight:600}.section-pylones{padding:60px 50px 90px;background-color:#fff}.pylones-header{text-align:center;max-width:800px;margin:0 auto 60px}.pylones-header h2{font-size:3rem;font-weight:900;color:#111;margin-bottom:15px}.pylones-header p{font-size:1.1rem;color:#666}.grid-chambres{display:grid;grid-template-columns:repeat(auto-fit,minmax(350px,1fr));gap:35px;max-width:1250px;margin:0 auto}.chambre-card{border-radius:20px;background:#fff;box-shadow:0 10px 30px rgba(0,0,0,.07);overflow:hidden;border:2px solid #f0f0f0;display:flex;flex-direction:column}.room-visual{height:250px;position:relative;background-color:#faf8f5;display:flex;align-items:center;justify-content:center;overflow:hidden}.iconic-face{text-align:center;z-index:2}.iconic-face i.glasses{font-size:4.2rem;color:#111;display:block}.iconic-face .lips{width:32px;height:16px;background-color:var(--pylones-pink);border-radius:0 0 32px 32px;margin:8px auto 0}.dots-bg{position:absolute;top:0;left:0;right:0;bottom:0;background-image:radial-gradient(var(--pylones-yellow) 22px,transparent 23px),radial-gradient(var(--pylones-pink) 28px,transparent 29px),radial-gradient(var(--pylones-cyan) 18px,transparent 19px),radial-gradient(var(--pylones-orange) 30px,transparent 31px);background-size:200px 200px,250px 250px,180px 180px,220px 220px;background-position:10px 10px,120px 40px,30px 120px,140px 130px;opacity:.9}.chambre-body{padding:30px;flex:1;display:flex;flex-direction:column;justify-content:space-between}.chambre-body h3{font-size:1.6rem;font-weight:800;margin-bottom:8px;color:#111}.chambre-price-tag{font-size:1.25rem;font-weight:900;color:var(--pylones-orange);margin-bottom:12px}.chambre-features{list-style:none;margin:10px 0 18px}.chambre-features li{font-size:.95rem;color:#555;margin-bottom:8px;display:flex;align-items:center;gap:10px}.chambre-features li i{color:var(--pylones-orange);font-size:1rem}.goodies-included{background-color:#fff2eb;border-left:4px solid var(--pylones-orange);padding:12px 15px;border-radius:6px;font-size:.85rem;font-weight:700;color:var(--pylones-orange);margin-bottom:20px}.banner-fusion{background-color:var(--pylones-orange);color:#fff;padding:40px 50px;display:flex;align-items:center;justify-content:space-between;max-width:1250px;margin:60px auto 0;border-radius:20px}.banner-fusion h3{font-size:1.8rem;font-weight:900}.btn-white{background-color:#fff;color:var(--pylones-orange);padding:12px 30px;border-radius:30px;font-weight:800;border:none;cursor:pointer;text-decoration:none}.shop-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:25px;max-width:1250px;margin:30px auto 0;padding-top:20px}.shop-item{border:2px solid #fff2eb;border-radius:15px;padding:25px 20px;text-align:center;background:#fff;transition:.3s}.shop-item:hover{border-color:var(--pylones-orange);transform:translateY(-5px)}.shop-item i{font-size:3.2rem;margin-bottom:12px;color:var(--pylones-pink)}.btn-add-cart{margin-top:15px;background:var(--pylones-orange);color:#fff;border:none;padding:9px 18px;border-radius:20px;font-weight:700;cursor:pointer;width:100%}.section-barriere{background-color:var(--barriere-black);padding:90px 50px;color:#fff;border-top:5px solid var(--barriere-gold)}.barriere-header{text-align:center;max-width:800px;margin:0 auto 60px}.barriere-header h2{font-family:'Playfair Display',serif;font-size:3rem;color:var(--barriere-gold);letter-spacing:2px;margin-bottom:15px;text-transform:uppercase}.barriere-header p{color:#aaa;font-size:1.1rem;font-style:italic}.grid-casino{display:grid;grid-template-columns:repeat(auto-fit,minmax(340px,1fr));gap:30px;max-width:1250px;margin:0 auto}.casino-card{background-color:var(--barriere-card);border:1px solid rgba(184,151,88,.3);border-radius:8px;overflow:hidden;transition:.3s}.casino-card:hover{border-color:var(--barriere-gold);transform:translateY(-5px)}.casino-card img{width:100%;height:230px;object-fit:cover}.casino-card-body{padding:25px}.casino-card-body h3{font-family:'Playfair Display',serif;font-size:1.6rem;color:var(--barriere-gold);margin-bottom:12px}.casino-card-body p{color:#bbb;font-size:.95rem;line-height:1.6}.slot-machine-container{background:linear-gradient(145deg,#1f1f26,#141418);border:3px solid var(--barriere-gold);border-radius:20px;max-width:700px;margin:60px auto 0;padding:35px;text-align:center;box-shadow:0 10px 40px rgba(184,151,88,.15)}.slot-display{background:#000;border:3px solid var(--barriere-gold);border-radius:12px;display:flex;justify-content:space-around;padding:25px 10px;margin:20px 0}.slot-reel{background:#fff;width:110px;height:110px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:3.5rem}.btn-spin{background:linear-gradient(to bottom,#d4af37,#aa8222);color:#000;border:none;padding:14px 40px;font-size:1.15rem;font-weight:900;border-radius:30px;cursor:pointer;transition:.2s}.btn-spin:disabled{opacity:.5;cursor:not-allowed}.modal-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.7);backdrop-filter:blur(5px);z-index:2000;display:none;align-items:center;justify-content:center}.modal-content{background:#fff;border-radius:20px;padding:35px;width:90%;max-width:520px;position:relative;box-shadow:0 15px 40px rgba(0,0,0,.3);max-height:90vh;overflow-y:auto}.modal-close{position:absolute;top:20px;right:20px;font-size:1.5rem;cursor:pointer;border:none;background:0 0}#toast{position:fixed;bottom:30px;right:30px;background:#222;color:#fff;padding:15px 25px;border-radius:10px;font-weight:700;z-index:3000;display:none;box-shadow:0 5px 20px rgba(0,0,0,.3);border-left:5px solid var(--pylones-orange)}footer{background-color:#0d0d0e;padding:50px 20px 30px;color:#888;text-align:center;border-top:1px solid #222}.footer-logos{display:flex;justify-content:center;align-items:center;gap:30px;margin-bottom:25px}@media (max-width:850px){header{padding:15px 20px}nav{display:none}.hero{flex-direction:column}.hero-left,.hero-right{padding:40px 25px}.quick-booking-bar{flex-direction:column}.banner-fusion{flex-direction:column;text-align:center;gap:20px}}</style></head><body><div id="toast">Notification</div><header><div class="dual-brand" onclick="window.scrollTo(0,0)"><div class="barriere-logo-wrap"><span class="barriere-b">B</span><span class="barriere-name">BARRIÈRE</span></div><div class="brand-divider"></div><div class="pylones-logo-wrap"><span class="pylones-name">PYLONES</span><span class="pylones-sub">créateur de sourires</span></div></div><nav><a href="#hotel-pylones" class="link-hotel"><i class="fa-solid fa-bed"></i>L'Hôtel Pylones</a><a href="#boutique-pylones" class="link-hotel"><i class="fa-solid fa-shop"></i>Boutique Sourires</a><a href="#casino-barriere" class="link-casino"><i class="fa-solid fa-crown"></i>Le Casino Barrière</a></nav><div class="header-actions"><button class="cart-btn" onclick="openCart()"><i class="fa-solid fa-basket-shopping"></i>Panier<span class="cart-badge" id="cart-count">0</span></button><button class="btn-reservation" onclick="openBookingModal()">Réserver une Chambre</button></div></header><section class="hero"><div class="hero-left"><span class="tag-pylones-hotel">Collaboration Exclusive</span><h1>Dormez chez<span class="orange">Pylones</span>.<br>Jouez chez<span style="font-family:'Playfair Display',serif;color:var(--barriere-gold)">Barrière</span>.</h1><p>Retrouvez l’univers pétillant, joyeux et plein de bonne humeur des boutiques Pylones directement dans vos chambres, associé au prestige légendaire des tables de jeu Barrière.</p><a href="#hotel-pylones" class="btn-reservation" style="text-decoration:none;width:fit-content">Découvrir les Chambres à Pois</a></div><div class="hero-right"><h2>L'Émotion du Jeu</h2><p>Roulette, Black Jack et frisson des jackpots sous les lustres en cristal dans le respect de la haute tradition Barrière.</p></div></section><div class="quick-booking-container"><div class="quick-booking-bar"><div class="form-group"><label>Date Arrivée</label><input type="date" id="quick-in"></div><div class="form-group"><label>Date Départ</label><input type="date" id="quick-out"></div><div class="form-group"><label>Chambre Sélectionnée</label><select id="quick-room"><option value="180">Chambre Madame Lunettes (180€)</option><option value="280">Suite Bienvenue Pop (280€)</option><option value="210">Deluxe Bulle Acidulée (210€)</option></select></div><button class="btn-reservation" style="height:44px" onclick="syncQuickBooking()">Vérifier le Tarif</button></div></div><section id="hotel-pylones" class="section-pylones"><div class="pylones-header"><span class="tag-pylones-hotel">HÔTEL PYLONES PARIS</span><h2>Des Chambres Qui Donnent Le Sourire</h2><p>Directement inspirées de l'univers visuel Pylones : mobilier laqué orange, murs à pois colorés, têtes de lit graphiques et sculptures joyeuses.</p></div><div class="grid-chambres"><div class="chambre-card"><div class="room-visual"><div class="dots-bg"></div><div class="iconic-face"><i class="fa-solid fa-glasses glasses"></i><div class="lips"></div></div></div><div class="chambre-body"><div><h3>Chambre "Madame Lunettes"</h3><div class="chambre-price-tag">180 €<span style="font-size:.85rem;color:#888;font-weight:400">/ nuit</span></div><ul class="chambre-features"><li><i class="fa-solid fa-check"></i>Mur fresque à pois & motif visage signature</li><li><i class="fa-solid fa-check"></i>Bureau laqué orange vif avec lampe champignon</li><li><i class="fa-solid fa-check"></i>Sculpture chien-ballon rose pop</li><li><i class="fa-solid fa-check"></i>Chemin de lit orange & coussins brodés</li></ul></div><div><div class="goodies-included"><i class="fa-solid fa-gift"></i>Cadeau : Bouteille isotherme & mug Pylones offerts</div><button class="btn-reservation" style="width:100%" onclick="selectRoomAndBook(180)">Réserver cette chambre</button></div></div></div><div class="chambre-card"><div class="room-visual" style="background-color:#fff2eb"><div class="dots-bg" style="opacity:.5"></div><i class="fa-solid fa-couch" style="font-size:4rem;color:var(--pylones-orange);z-index:2"></i></div><div class="chambre-body"><div><h3>Suite "Bienvenue Pop"</h3><div class="chambre-price-tag">280 €<span style="font-size:.85rem;color:#888;font-weight:400">/ nuit</span></div><ul class="chambre-features"><li><i class="fa-solid fa-check"></i>Salon privé avec fauteuils magenta et jaune canari</li><li><i class="fa-solid fa-check"></i>Suspensions cloches colorées Pylones</li><li><i class="fa-solid fa-check"></i>Enseigne lumineuse néon "Bienvenue ♡"</li><li><i class="fa-solid fa-check"></i>Dressing ouvert en bois blond et orange</li></ul></div><div><div class="goodies-included"><i class="fa-solid fa-gift"></i>Cadeau : Boule à neige Tour Eiffel & carnet à pois</div><button class="btn-reservation" style="width:100%" onclick="selectRoomAndBook(280)">Réserver cette suite</button></div></div></div><div class="chambre-card"><div class="room-visual" style="background-color:#ebf9fc"><div class="dots-bg" style="opacity:.7"></div><i class="fa-solid fa-shower" style="font-size:4rem;color:var(--pylones-cyan);z-index:2"></i></div><div class="chambre-body"><div><h3>Chambre Deluxe "Bulle Acidulée"</h3><div class="chambre-price-tag">210 €<span style="font-size:.85rem;color:#888;font-weight:400">/ nuit</span></div><ul class="chambre-features"><li><i class="fa-solid fa-check"></i>Salle d'eau en carrelage blanc et gros pois</li><li><i class="fa-solid fa-check"></i>Grand miroir rond rétroéclairé LED</li><li><i class="fa-solid fa-check"></i>Serviettes assorties fuchsia, orange et jaune</li><li><i class="fa-solid fa-check"></i>Distributeurs de savon Pylones créatifs</li></ul></div><div><div class="goodies-included"><i class="fa-solid fa-gift"></i>Cadeau : Trousse de toilette & brosse Pylones</div><button class="btn-reservation" style="width:100%" onclick="selectRoomAndBook(210)">Réserver cette chambre</button></div></div></div></div><div class="banner-fusion" id="boutique-pylones"><div><h3>La Boutique Pylones de l'Hôtel</h3><p>Retrouvez tous les objets créateurs de sourires directement à la conciergerie ou commandez-les en ligne.</p></div><button class="btn-white" onclick="openCart()">Voir le Panier (<span id="btn-cart-num">0</span>)</button></div><div class="shop-grid"><div class="shop-item"><i class="fa-solid fa-mug-hot"></i><h4>Mug "Madame Lunettes"</h4><p style="color:var(--pylones-orange);font-weight:800;margin-top:5px">16.00 €</p><button class="btn-add-cart" onclick='addToCart("Mug Madame Lunettes",16)'>Ajouter au panier</button></div><div class="shop-item"><i class="fa-solid fa-bottle-water" style="color:var(--pylones-cyan)"></i><h4>Gourde Isotherme Pois</h4><p style="color:var(--pylones-orange);font-weight:800;margin-top:5px">24.00 €</p><button class="btn-add-cart" onclick='addToCart("Gourde Isotherme Pois",24)'>Ajouter au panier</button></div><div class="shop-item"><i class="fa-solid fa-dog" style="color:var(--pylones-yellow)"></i><h4>Chien-Ballon Pop Déco</h4><p style="color:var(--pylones-orange);font-weight:800;margin-top:5px">35.00 €</p><button class="btn-add-cart" onclick='addToCart("Chien-Ballon Pop Déco",35)'>Ajouter au panier</button></div><div class="shop-item"><i class="fa-solid fa-umbrella" style="color:var(--pylones-orange)"></i><h4>Parapluie Silhouette</h4><p style="color:var(--pylones-orange);font-weight:800;margin-top:5px">29.00 €</p><button class="btn-add-cart" onclick='addToCart("Parapluie Silhouette",29)'>Ajouter au panier</button></div></div></section><section id="casino-barriere" class="section-barriere"><div class="barriere-header"><h2>Le Casino Barrière</h2><p>La haute tradition des casinos français au pied de votre chambre.</p></div><div class="grid-casino"><div class="casino-card"><img src="https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=600&q=80" alt="Roulette Barrière"><div class="casino-card-body"><h3>Les Tables de Jeux</h3><p>Roulette anglaise, Blackjack et Ultimate Texas Hold'em. Retrouvez l’élégance feutrée de nos croupiers vêtus de noir et or dans un salon d'exception.</p></div></div><div class="casino-card"><img src="https://images.unsplash.com/photo-1596838132731-3301c3fd4317?auto=format&fit=crop&w=600&q=80" alt="Machines a sous"><div class="casino-card-body"><h3>Le Parc Machines à Sous</h3><p>Plus de 200 machines à sous traditionnelles et roulettes électroniques de dernière génération sous les dorures du salon principal.</p></div></div><div class="casino-card"><img src="https://images.unsplash.com/photo-1511193311914-0346f16efe90?auto=format&fit=crop&w=600&q=80" alt="Salon VIP"><div class="casino-card-body"><h3>Le Salon d'Honneur VIP</h3><p>Un espace discret et raffiné réservé aux hauts joueurs, combinant le service d'un palace Barrière et une carte de champagnes millésimés.</p></div></div></div><div class="slot-machine-container"><h3 style="font-family:'Playfair Display',serif;font-size:1.8rem;color:var(--barriere-gold)">La Machine Électronique Barrière</h3><p style="color:#aaa;font-size:.9rem;margin-top:5px">Essayez vos jetons offerts !</p><div class="slot-display"><div class="slot-reel" id="reel1">🍒</div><div class="slot-reel" id="reel2">💎</div><div class="slot-reel" id="reel3">7️⃣</div></div><div style="display:flex;justify-content:space-around;align-items:center;flex-wrap:wrap;gap:15px"><div style="font-weight:800;font-size:1.1rem;color:var(--barriere-gold)">Solde :<span id="chips-balance" style="color:#fff">500</span>€</div><div><label style="font-size:.85rem;color:#aaa">Mise :</label><select id="bet-amount" style="padding:6px 12px;border-radius:5px;font-weight:700"><option value="10">10 €</option><option value="20">20 €</option><option value="50">50 €</option></select></div><button class="btn-spin" id="spin-btn" onclick="spinSlot()">LANCER !</button></div><p id="slot-msg" style="margin-top:20px;font-weight:700;color:var(--barriere-gold)">Alignez 3 symboles identiques pour le Jackpot !</p></div></section><footer><div class="footer-logos"><span style="font-family:'Playfair Display',serif;font-size:1.4rem;color:var(--barriere-gold);font-weight:700">BARRIÈRE</span><span style="color:#444">✕</span><span style="font-family:Montserrat,sans-serif;font-size:1.4rem;font-style:italic;font-weight:900;color:var(--pylones-orange)">PYLONES</span></div><p style="font-size:.8rem;color:#555;line-height:1.6;max-width:800px;margin:0 auto">Hôtel Pylones Paris & Casino Barrière. Tous droits réservés.<br>Les jeux d'argent et de hasard sont interdits aux mineurs. Jouer comporte des risques : endettement, isolement, dépendance. Pour être aidé, appelez le 09-74-75-13-13.</p></footer><div class="modal-overlay" id="booking-modal"><div class="modal-content"><button class="modal-close" onclick='closeModal("booking-modal")'>✕</button><h3 style="font-size:1.6rem;color:var(--pylones-orange);margin-bottom:20px">Votre Séjour Pop & Casino</h3><div style="display:flex;flex-direction:column;gap:15px"><div class="form-group"><label>Votre Nom</label><input type="text" id="guest-name" placeholder="Ex: Jean Dupont"></div><div style="display:flex;gap:10px"><div class="form-group"><label>Arrivée</label><input type="date" id="book-in" onchange="calculateStayTotal()"></div><div class="form-group"><label>Départ</label><input type="date" id="book-out" onchange="calculateStayTotal()"></div></div><div class="form-group"><label>Chambre Sélectionnée</label><select id="book-room-select" onchange="calculateStayTotal()"><option value="180">Chambre Madame Lunettes (180€ / nuit)</option><option value="280">Suite Bienvenue Pop (280€ / nuit)</option><option value="210">Deluxe Bulle Acidulée (210€ / nuit)</option></select></div><div style="background:#fff2eb;padding:15px;border-radius:10px"><div style="display:flex;justify-content:space-between;font-weight:700"><span>Total :</span><span id="booking-total-price" style="color:var(--pylones-orange);font-size:1.3rem">180 €</span></div><p style="font-size:.75rem;color:#777;margin-top:5px">+ Inclus : 50€ de jetons Casino Barrière & Welcome Pack Pylones.</p></div><button class="btn-reservation" onclick="confirmReservation()">Confirmer la réservation</button></div></div></div><div class="modal-overlay" id="cart-modal"><div class="modal-content"><button class="modal-close" onclick='closeModal("cart-modal")'>✕</button><h3 style="font-size:1.6rem;color:var(--pylones-pink);margin-bottom:20px">Votre Panier Pylones</h3><div id="cart-items-list" style="margin-bottom:20px;max-height:250px;overflow-y:auto"><p style="color:#777">Votre panier est vide.</p></div><div style="border-top:2px solid #eee;padding-top:15px;display:flex;justify-content:space-between;font-weight:800;font-size:1.2rem;margin-bottom:20px"><span>Total :</span><span id="cart-total-price" style="color:var(--pylones-orange)">0.00 €</span></div><button class="btn-reservation" style="width:100%" onclick="checkoutCart()">Finaliser ma commande</button></div></div><script>const today = new Date();
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hôtel Pylones Paris & Casino Barrière | Site Officiel</title>
+    
+    <!-- Polices officielles -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;0,700;0,900;1,800;1,900&family=Playfair+Display:ital,wght@0,600;0,700;0,900;1,400&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+    <style>
+        :root {
+            /* PYLONES OFFICIEL */
+            --pylones-orange: #E85D26;
+            --pylones-pink: #E92672;
+            --pylones-yellow: #FACB11;
+            --pylones-cyan: #0DB3D3;
+            
+            /* BARRIÈRE OFFICIEL */
+            --barriere-gold: #B89758;
+            --barriere-black: #121214;
+            --barriere-card: #1A1A1E;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Montserrat', sans-serif; background: #fff; color: #222; scroll-behavior: smooth; }
+
+        /* --- HEADER DOUBLE IDENTITÉ EXACT --- */
+        header {
+            position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+            background: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 12px 50px;
+        }
+
+        .dual-brand { display: flex; align-items: center; gap: 25px; cursor: pointer; }
+        
+        /* Logo Barrière Exact */
+        .barriere-logo-wrap { display: flex; flex-direction: column; align-items: center; line-height: 1; }
+        .barriere-b { font-family: 'Playfair Display', serif; font-size: 2rem; color: var(--barriere-gold); position: relative; font-weight: 700; }
+        .barriere-b::after { content: "✦"; font-size: 0.7rem; position: absolute; bottom: 3px; right: -8px; color: var(--barriere-gold); }
+        .barriere-name { font-size: 0.95rem; letter-spacing: 4px; color: #000; font-weight: 700; margin-top: 2px; }
+
+        .brand-divider { height: 35px; width: 1px; background-color: #ddd; }
+
+        /* Logo Pylones Exact */
+        .pylones-logo-wrap { display: flex; flex-direction: column; line-height: 1; }
+        .pylones-name { font-size: 1.8rem; font-style: italic; font-weight: 900; color: var(--pylones-orange); letter-spacing: 0.5px; text-transform: uppercase; }
+        .pylones-sub { font-size: 0.65rem; color: var(--pylones-orange); font-weight: 400; letter-spacing: 1px; margin-top: 1px; }
+
+        nav a { text-decoration: none; margin: 0 15px; font-size: 0.9rem; font-weight: 700; transition: 0.3s; }
+        nav a.link-hotel { color: var(--pylones-orange); }
+        nav a.link-casino { color: var(--barriere-gold); }
+
+        .header-actions { display: flex; align-items: center; gap: 15px; }
+
+        .cart-btn {
+            background: #fff2eb; border: 2px solid var(--pylones-orange); color: var(--pylones-orange);
+            padding: 8px 16px; border-radius: 20px; font-weight: 700; cursor: pointer; display: flex; align-items: center; gap: 8px;
+        }
+        .cart-badge { background: var(--pylones-pink); color: #fff; font-size: 0.75rem; padding: 2px 7px; border-radius: 50%; }
+
+        .btn-reservation {
+            background-color: var(--pylones-orange); color: white; padding: 12px 28px;
+            border-radius: 50px; font-weight: 800; border: none; cursor: pointer;
+            box-shadow: 0 4px 15px rgba(232, 93, 38, 0.4); transition: 0.3s;
+        }
+        .btn-reservation:hover { transform: translateY(-2px); background-color: #d04d1b; }
+
+        /* --- HERO SPLIT DU DESIGN PRÉCÉDENT --- */
+        .hero { margin-top: 75px; min-height: 72vh; display: flex; position: relative; }
+
+        .hero-left {
+            flex: 1.1; background-color: #FFF9F6; padding: 70px;
+            display: flex; flex-direction: column; justify-content: center;
+            background-image: 
+                radial-gradient(var(--pylones-yellow) 12px, transparent 13px),
+                radial-gradient(var(--pylones-pink) 10px, transparent 11px),
+                radial-gradient(var(--pylones-cyan) 8px, transparent 9px),
+                radial-gradient(var(--pylones-orange) 14px, transparent 15px);
+            background-size: 180px 180px, 140px 140px, 120px 120px, 200px 200px;
+            background-position: 20px 20px, 80px 40px, 130px 100px, 50px 120px;
+        }
+
+        .tag-pylones-hotel {
+            background-color: var(--pylones-orange); color: white; font-weight: 800;
+            padding: 6px 18px; border-radius: 20px; display: inline-block; font-size: 0.85rem; margin-bottom: 15px; width: fit-content;
+        }
+
+        .hero-left h1 { font-size: 3.2rem; font-weight: 900; line-height: 1.15; color: #222; margin-bottom: 20px; }
+        .hero-left h1 span.orange { color: var(--pylones-orange); }
+        .hero-left p { font-size: 1.15rem; color: #555; max-width: 520px; line-height: 1.7; margin-bottom: 30px; }
+
+        .hero-right {
+            flex: 0.9; background: linear-gradient(rgba(18, 18, 20, 0.8), rgba(74, 14, 23, 0.85)), url('https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=1000&q=80') center/cover;
+            display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;
+            padding: 50px; color: #fff; border-left: 6px solid var(--barriere-gold);
+        }
+        .hero-right h2 { font-family: 'Playfair Display', serif; font-size: 2.8rem; color: var(--barriere-gold); margin-bottom: 15px; }
+        .hero-right p { font-size: 1rem; max-width: 400px; color: #ddd; line-height: 1.6; }
+
+        /* --- BARRE FLOTTANTE DE RÉSERVATION RAPIDE --- */
+        .quick-booking-container {
+            max-width: 1100px; margin: -35px auto 40px; position: relative; z-index: 20; padding: 0 20px;
+        }
+        .quick-booking-bar {
+            background: white; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.12);
+            padding: 20px 30px; display: flex; gap: 20px; align-items: flex-end; border: 2px solid #fff2eb;
+        }
+        .form-group { flex: 1; display: flex; flex-direction: column; }
+        .form-group label { font-size: 0.75rem; font-weight: 800; text-transform: uppercase; margin-bottom: 5px; color: #555; }
+        .form-group input, .form-group select {
+            padding: 10px; border: 1px solid #ddd; border-radius: 8px; font-family: inherit; font-weight: 600;
+        }
+
+        /* --- SECTION 1 : HÔTEL PYLONES (DESIGN IDENTIQUE COLLAGE) --- */
+        .section-pylones { padding: 60px 50px 90px; background-color: #ffffff; }
+        .pylones-header { text-align: center; max-width: 800px; margin: 0 auto 60px; }
+        .pylones-header h2 { font-size: 3rem; font-weight: 900; color: #111; margin-bottom: 15px; }
+        .pylones-header p { font-size: 1.1rem; color: #666; }
+
+        .grid-chambres { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 35px; max-width: 1250px; margin: 0 auto; }
+        .chambre-card {
+            border-radius: 20px; background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.07);
+            overflow: hidden; border: 2px solid #f0f0f0; display: flex; flex-direction: column;
+        }
+
+        .room-visual {
+            height: 250px; position: relative; background-color: #FAF8F5;
+            display: flex; align-items: center; justify-content: center; overflow: hidden;
+        }
+
+        .iconic-face { text-align: center; z-index: 2; }
+        .iconic-face i.glasses { font-size: 4.2rem; color: #111; display: block; }
+        .iconic-face .lips {
+            width: 32px; height: 16px; background-color: var(--pylones-pink);
+            border-radius: 0 0 32px 32px; margin: 8px auto 0;
+        }
+
+        .dots-bg {
+            position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+            background-image: 
+                radial-gradient(var(--pylones-yellow) 22px, transparent 23px),
+                radial-gradient(var(--pylones-pink) 28px, transparent 29px),
+                radial-gradient(var(--pylones-cyan) 18px, transparent 19px),
+                radial-gradient(var(--pylones-orange) 30px, transparent 31px);
+            background-size: 200px 200px, 250px 250px, 180px 180px, 220px 220px;
+            background-position: 10px 10px, 120px 40px, 30px 120px, 140px 130px; opacity: 0.9;
+        }
+
+        .chambre-body { padding: 30px; flex: 1; display: flex; flex-direction: column; justify-content: space-between; }
+        .chambre-body h3 { font-size: 1.6rem; font-weight: 800; margin-bottom: 8px; color: #111; }
+        .chambre-price-tag { font-size: 1.25rem; font-weight: 900; color: var(--pylones-orange); margin-bottom: 12px; }
+
+        .chambre-features { list-style: none; margin: 10px 0 18px; }
+        .chambre-features li { font-size: 0.95rem; color: #555; margin-bottom: 8px; display: flex; align-items: center; gap: 10px; }
+        .chambre-features li i { color: var(--pylones-orange); font-size: 1rem; }
+
+        .goodies-included {
+            background-color: #FFF2EB; border-left: 4px solid var(--pylones-orange);
+            padding: 12px 15px; border-radius: 6px; font-size: 0.85rem; font-weight: 700;
+            color: var(--pylones-orange); margin-bottom: 20px;
+        }
+
+        /* --- BANNIÈRE BOUTIQUE PYLONES --- */
+        .banner-fusion {
+            background-color: var(--pylones-orange); color: white; padding: 40px 50px;
+            display: flex; align-items: center; justify-content: space-between;
+            max-width: 1250px; margin: 60px auto 0; border-radius: 20px;
+        }
+        .banner-fusion h3 { font-size: 1.8rem; font-weight: 900; }
+        .btn-white {
+            background-color: white; color: var(--pylones-orange); padding: 12px 30px;
+            border-radius: 30px; font-weight: 800; border: none; cursor: pointer; text-decoration: none;
+        }
+
+        /* --- BOUTIQUE INTERACTIVE DÉROULANTE --- */
+        .shop-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 25px; max-width: 1250px; margin: 30px auto 0; padding-top: 20px;
+        }
+        .shop-item {
+            border: 2px solid #fff2eb; border-radius: 15px; padding: 25px 20px; text-align: center;
+            background: #fff; transition: 0.3s;
+        }
+        .shop-item:hover { border-color: var(--pylones-orange); transform: translateY(-5px); }
+        .shop-item i { font-size: 3.2rem; margin-bottom: 12px; color: var(--pylones-pink); }
+        .btn-add-cart {
+            margin-top: 15px; background: var(--pylones-orange); color: #fff; border: none;
+            padding: 9px 18px; border-radius: 20px; font-weight: 700; cursor: pointer; width: 100%;
+        }
+
+        /* --- SECTION 2 : LE CASINO BARRIÈRE (DESIGN EXACT ET CARTES PHOTOS) --- */
+        .section-barriere {
+            background-color: var(--barriere-black); padding: 90px 50px; color: white; border-top: 5px solid var(--barriere-gold);
+        }
+        .barriere-header { text-align: center; max-width: 800px; margin: 0 auto 60px; }
+        .barriere-header h2 {
+            font-family: 'Playfair Display', serif; font-size: 3rem; color: var(--barriere-gold);
+            letter-spacing: 2px; margin-bottom: 15px; text-transform: uppercase;
+        }
+        .barriere-header p { color: #aaa; font-size: 1.1rem; font-style: italic; }
+
+        .grid-casino { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 30px; max-width: 1250px; margin: 0 auto; }
+        .casino-card {
+            background-color: var(--barriere-card); border: 1px solid rgba(184, 151, 88, 0.3);
+            border-radius: 8px; overflow: hidden; transition: 0.3s;
+        }
+        .casino-card:hover { border-color: var(--barriere-gold); transform: translateY(-5px); }
+        .casino-card img { width: 100%; height: 230px; object-fit: cover; }
+        .casino-card-body { padding: 25px; }
+        .casino-card-body h3 { font-family: 'Playfair Display', serif; font-size: 1.6rem; color: var(--barriere-gold); margin-bottom: 12px; }
+        .casino-card-body p { color: #bbb; font-size: 0.95rem; line-height: 1.6; }
+
+        /* --- MACHINE À SOUS INTERACTIVE DANS LE SALON BARRIÈRE --- */
+        .slot-machine-container {
+            background: linear-gradient(145deg, #1f1f26, #141418); border: 3px solid var(--barriere-gold);
+            border-radius: 20px; max-width: 700px; margin: 60px auto 0; padding: 35px; text-align: center;
+            box-shadow: 0 10px 40px rgba(184, 151, 88, 0.15);
+        }
+        .slot-display {
+            background: #000; border: 3px solid var(--barriere-gold); border-radius: 12px;
+            display: flex; justify-content: space-around; padding: 25px 10px; margin: 20px 0;
+        }
+        .slot-reel {
+            background: #fff; width: 110px; height: 110px; border-radius: 12px;
+            display: flex; align-items: center; justify-content: center; font-size: 3.5rem;
+        }
+        .btn-spin {
+            background: linear-gradient(to bottom, #d4af37, #aa8222); color: #000;
+            border: none; padding: 14px 40px; font-size: 1.15rem; font-weight: 900;
+            border-radius: 30px; cursor: pointer; transition: 0.2s;
+        }
+        .btn-spin:disabled { opacity: 0.5; cursor: not-allowed; }
+
+        /* --- MODALS (RÉSERVATION & PANIER) --- */
+        .modal-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.7); backdrop-filter: blur(5px);
+            z-index: 2000; display: none; align-items: center; justify-content: center;
+        }
+        .modal-content {
+            background: white; border-radius: 20px; padding: 35px; width: 90%; max-width: 520px;
+            position: relative; box-shadow: 0 15px 40px rgba(0,0,0,0.3); max-height: 90vh; overflow-y: auto;
+        }
+        .modal-close { position: absolute; top: 20px; right: 20px; font-size: 1.5rem; cursor: pointer; border: none; background: none; }
+
+        #toast {
+            position: fixed; bottom: 30px; right: 30px; background: #222; color: #fff;
+            padding: 15px 25px; border-radius: 10px; font-weight: 700; z-index: 3000;
+            display: none; box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-left: 5px solid var(--pylones-orange);
+        }
+
+        /* FOOTER */
+        footer {
+            background-color: #0d0d0e; padding: 50px 20px 30px; color: #888; text-align: center; border-top: 1px solid #222;
+        }
+        .footer-logos { display: flex; justify-content: center; align-items: center; gap: 30px; margin-bottom: 25px; }
+
+        @media (max-width: 850px) {
+            header { padding: 15px 20px; }
+            nav { display: none; }
+            .hero { flex-direction: column; }
+            .hero-left, .hero-right { padding: 40px 25px; }
+            .quick-booking-bar { flex-direction: column; }
+            .banner-fusion { flex-direction: column; text-align: center; gap: 20px; }
+        }
+    </style>
+</head>
+<body>
+
+    <div id="toast">Notification</div>
+
+    <!-- HEADER OFFICIEL DOUBLE MARQUE -->
+    <header>
+        <div class="dual-brand" onclick="window.scrollTo(0,0)">
+            <div class="barriere-logo-wrap">
+                <span class="barriere-b">B</span>
+                <span class="barriere-name">BARRIÈRE</span>
+            </div>
+            <div class="brand-divider"></div>
+            <div class="pylones-logo-wrap">
+                <span class="pylones-name">PYLONES</span>
+                <span class="pylones-sub">créateur de sourires</span>
+            </div>
+        </div>
+
+        <nav>
+            <a href="#hotel-pylones" class="link-hotel"><i class="fa-solid fa-bed"></i> L'Hôtel Pylones</a>
+            <a href="#boutique-pylones" class="link-hotel"><i class="fa-solid fa-shop"></i> Boutique Sourires</a>
+            <a href="#casino-barriere" class="link-casino"><i class="fa-solid fa-crown"></i> Le Casino Barrière</a>
+        </nav>
+
+        <div class="header-actions">
+            <button class="cart-btn" onclick="openCart()">
+                <i class="fa-solid fa-basket-shopping"></i> Panier
+                <span class="cart-badge" id="cart-count">0</span>
+            </button>
+            <button class="btn-reservation" onclick="openBookingModal()">Réserver une Chambre</button>
+        </div>
+    </header>
+
+    <!-- HERO SPLIT -->
+    <section class="hero">
+        <div class="hero-left">
+            <span class="tag-pylones-hotel">Collaboration Exclusive</span>
+            <h1>Dormez chez <span class="orange">Pylones</span>.<br>Jouez chez <span style="font-family:'Playfair Display', serif; color: var(--barriere-gold);">Barrière</span>.</h1>
+            <p>Retrouvez l’univers pétillant, joyeux et plein de bonne humeur des boutiques Pylones directement dans vos chambres, associé au prestige légendaire des tables de jeu Barrière.</p>
+            <a href="#hotel-pylones" class="btn-reservation" style="text-decoration: none; width: fit-content;">Découvrir les Chambres à Pois</a>
+        </div>
+        <div class="hero-right">
+            <h2>L'Émotion du Jeu</h2>
+            <p>Roulette, Black Jack et frisson des jackpots sous les lustres en cristal dans le respect de la haute tradition Barrière.</p>
+        </div>
+    </section>
+
+    <!-- BARRE FLOTTANTE DE RÉSERVATION RAPIDE -->
+    <div class="quick-booking-container">
+        <div class="quick-booking-bar">
+            <div class="form-group">
+                <label>Date Arrivée</label>
+                <input type="date" id="quick-in">
+            </div>
+            <div class="form-group">
+                <label>Date Départ</label>
+                <input type="date" id="quick-out">
+            </div>
+            <div class="form-group">
+                <label>Chambre Sélectionnée</label>
+                <select id="quick-room">
+                    <option value="180">Chambre Madame Lunettes (180€)</option>
+                    <option value="280">Suite Bienvenue Pop (280€)</option>
+                    <option value="210">Deluxe Bulle Acidulée (210€)</option>
+                </select>
+            </div>
+            <button class="btn-reservation" style="height: 44px;" onclick="syncQuickBooking()">Vérifier le Tarif</button>
+        </div>
+    </div>
+
+    <!-- SECTION 1 : HÔTEL PYLONES (100% DESIGN DU COLLAGE) -->
+    <section id="hotel-pylones" class="section-pylones">
+        <div class="pylones-header">
+            <span class="tag-pylones-hotel">HÔTEL PYLONES PARIS</span>
+            <h2>Des Chambres Qui Donnent Le Sourire</h2>
+            <p>Directement inspirées de l'univers visuel Pylones : mobilier laqué orange, murs à pois colorés, têtes de lit graphiques et sculptures joyeuses.</p>
+        </div>
+
+        <div class="grid-chambres">
+            <!-- CARTE 1 : MADAME LUNETTES -->
+            <div class="chambre-card">
+                <div class="room-visual">
+                    <div class="dots-bg"></div>
+                    <div class="iconic-face">
+                        <i class="fa-solid fa-glasses glasses"></i>
+                        <div class="lips"></div>
+                    </div>
+                </div>
+                <div class="chambre-body">
+                    <div>
+                        <h3>Chambre "Madame Lunettes"</h3>
+                        <div class="chambre-price-tag">180 € <span style="font-size:0.85rem; color:#888; font-weight:normal;">/ nuit</span></div>
+                        <ul class="chambre-features">
+                            <li><i class="fa-solid fa-check"></i> Mur fresque à pois & motif visage signature</li>
+                            <li><i class="fa-solid fa-check"></i> Bureau laqué orange vif avec lampe champignon</li>
+                            <li><i class="fa-solid fa-check"></i> Sculpture chien-ballon rose pop</li>
+                            <li><i class="fa-solid fa-check"></i> Chemin de lit orange & coussins brodés</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="goodies-included">
+                            <i class="fa-solid fa-gift"></i> Cadeau : Bouteille isotherme & mug Pylones offerts
+                        </div>
+                        <button class="btn-reservation" style="width: 100%;" onclick="selectRoomAndBook(180)">Réserver cette chambre</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CARTE 2 : SUITE BIENVENUE POP -->
+            <div class="chambre-card">
+                <div class="room-visual" style="background-color: #FFF2EB;">
+                    <div class="dots-bg" style="opacity: 0.5;"></div>
+                    <i class="fa-solid fa-couch" style="font-size: 4rem; color: var(--pylones-orange); z-index: 2;"></i>
+                </div>
+                <div class="chambre-body">
+                    <div>
+                        <h3>Suite "Bienvenue Pop"</h3>
+                        <div class="chambre-price-tag">280 € <span style="font-size:0.85rem; color:#888; font-weight:normal;">/ nuit</span></div>
+                        <ul class="chambre-features">
+                            <li><i class="fa-solid fa-check"></i> Salon privé avec fauteuils magenta et jaune canari</li>
+                            <li><i class="fa-solid fa-check"></i> Suspensions cloches colorées Pylones</li>
+                            <li><i class="fa-solid fa-check"></i> Enseigne lumineuse néon "Bienvenue ♡"</li>
+                            <li><i class="fa-solid fa-check"></i> Dressing ouvert en bois blond et orange</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="goodies-included">
+                            <i class="fa-solid fa-gift"></i> Cadeau : Boule à neige Tour Eiffel & carnet à pois
+                        </div>
+                        <button class="btn-reservation" style="width: 100%;" onclick="selectRoomAndBook(280)">Réserver cette suite</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CARTE 3 : BULLE ACIDULÉE -->
+            <div class="chambre-card">
+                <div class="room-visual" style="background-color: #EBF9FC;">
+                    <div class="dots-bg" style="opacity: 0.7;"></div>
+                    <i class="fa-solid fa-shower" style="font-size: 4rem; color: var(--pylones-cyan); z-index: 2;"></i>
+                </div>
+                <div class="chambre-body">
+                    <div>
+                        <h3>Chambre Deluxe "Bulle Acidulée"</h3>
+                        <div class="chambre-price-tag">210 € <span style="font-size:0.85rem; color:#888; font-weight:normal;">/ nuit</span></div>
+                        <ul class="chambre-features">
+                            <li><i class="fa-solid fa-check"></i> Salle d'eau en carrelage blanc et gros pois</li>
+                            <li><i class="fa-solid fa-check"></i> Grand miroir rond rétroéclairé LED</li>
+                            <li><i class="fa-solid fa-check"></i> Serviettes assorties fuchsia, orange et jaune</li>
+                            <li><i class="fa-solid fa-check"></i> Distributeurs de savon Pylones créatifs</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <div class="goodies-included">
+                            <i class="fa-solid fa-gift"></i> Cadeau : Trousse de toilette & brosse Pylones
+                        </div>
+                        <button class="btn-reservation" style="width: 100%;" onclick="selectRoomAndBook(210)">Réserver cette chambre</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- BANNIÈRE BOUTIQUE PYLONES -->
+        <div class="banner-fusion" id="boutique-pylones">
+            <div>
+                <h3>La Boutique Pylones de l'Hôtel</h3>
+                <p>Retrouvez tous les objets créateurs de sourires directement à la conciergerie ou commandez-les en ligne.</p>
+            </div>
+            <button class="btn-white" onclick="openCart()">Voir le Panier (<span id="btn-cart-num">0</span>)</button>
+        </div>
+
+        <!-- BOUTIQUE INTERACTIVE -->
+        <div class="shop-grid">
+            <div class="shop-item">
+                <i class="fa-solid fa-mug-hot"></i>
+                <h4>Mug "Madame Lunettes"</h4>
+                <p style="color: var(--pylones-orange); font-weight: 800; margin-top: 5px;">16.00 €</p>
+                <button class="btn-add-cart" onclick="addToCart('Mug Madame Lunettes', 16)">Ajouter au panier</button>
+            </div>
+            <div class="shop-item">
+                <i class="fa-solid fa-bottle-water" style="color: var(--pylones-cyan);"></i>
+                <h4>Gourde Isotherme Pois</h4>
+                <p style="color: var(--pylones-orange); font-weight: 800; margin-top: 5px;">24.00 €</p>
+                <button class="btn-add-cart" onclick="addToCart('Gourde Isotherme Pois', 24)">Ajouter au panier</button>
+            </div>
+            <div class="shop-item">
+                <i class="fa-solid fa-dog" style="color: var(--pylones-yellow);"></i>
+                <h4>Chien-Ballon Pop Déco</h4>
+                <p style="color: var(--pylones-orange); font-weight: 800; margin-top: 5px;">35.00 €</p>
+                <button class="btn-add-cart" onclick="addToCart('Chien-Ballon Pop Déco', 35)">Ajouter au panier</button>
+            </div>
+            <div class="shop-item">
+                <i class="fa-solid fa-umbrella" style="color: var(--pylones-orange);"></i>
+                <h4>Parapluie Silhouette</h4>
+                <p style="color: var(--pylones-orange); font-weight: 800; margin-top: 5px;">29.00 €</p>
+                <button class="btn-add-cart" onclick="addToCart('Parapluie Silhouette', 29)">Ajouter au panier</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 2 : LE CASINO BARRIÈRE (DESIGN EXACT CARTES PHOTOS + MACHINE À SOUS) -->
+    <section id="casino-barriere" class="section-barriere">
+        <div class="barriere-header">
+            <h2>Le Casino Barrière</h2>
+            <p>La haute tradition des casinos français au pied de votre chambre.</p>
+        </div>
+
+        <div class="grid-casino">
+            <div class="casino-card">
+                <img src="https://images.unsplash.com/photo-1518609878373-06d740f60d8b?auto=format&fit=crop&w=600&q=80" alt="Roulette Barrière">
+                <div class="casino-card-body">
+                    <h3>Les Tables de Jeux</h3>
+                    <p>Roulette anglaise, Blackjack et Ultimate Texas Hold'em. Retrouvez l’élégance feutrée de nos croupiers vêtus de noir et or dans un salon d'exception.</p>
+                </div>
+            </div>
+
+            <div class="casino-card">
+                <img src="https://images.unsplash.com/photo-1596838132731-3301c3fd4317?auto=format&fit=crop&w=600&q=80" alt="Machines a sous">
+                <div class="casino-card-body">
+                    <h3>Le Parc Machines à Sous</h3>
+                    <p>Plus de 200 machines à sous traditionnelles et roulettes électroniques de dernière génération sous les dorures du salon principal.</p>
+                </div>
+            </div>
+
+            <div class="casino-card">
+                <img src="https://images.unsplash.com/photo-1511193311914-0346f16efe90?auto=format&fit=crop&w=600&q=80" alt="Salon VIP">
+                <div class="casino-card-body">
+                    <h3>Le Salon d'Honneur VIP</h3>
+                    <p>Un espace discret et raffiné réservé aux hauts joueurs, combinant le service d'un palace Barrière et une carte de champagnes millésimés.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- MACHINE À SOUS INTERACTIVE DE JEU -->
+        <div class="slot-machine-container">
+            <h3 style="font-family:'Playfair Display', serif; font-size: 1.8rem; color: var(--barriere-gold);">La Machine Électronique Barrière</h3>
+            <p style="color: #aaa; font-size: 0.9rem; margin-top: 5px;">Essayez vos jetons offerts !</p>
+
+            <div class="slot-display">
+                <div class="slot-reel" id="reel1">🍒</div>
+                <div class="slot-reel" id="reel2">💎</div>
+                <div class="slot-reel" id="reel3">7️⃣</div>
+            </div>
+
+            <div style="display:flex; justify-content:space-around; align-items:center; flex-wrap:wrap; gap:15px;">
+                <div style="font-weight: 800; font-size: 1.1rem; color: var(--barriere-gold);">
+                    Solde : <span id="chips-balance" style="color: #fff;">500</span> €
+                </div>
+                <div>
+                    <label style="font-size: 0.85rem; color:#aaa;">Mise : </label>
+                    <select id="bet-amount" style="padding:6px 12px; border-radius:5px; font-weight:bold;">
+                        <option value="10">10 €</option>
+                        <option value="20">20 €</option>
+                        <option value="50">50 €</option>
+                    </select>
+                </div>
+                <button class="btn-spin" id="spin-btn" onclick="spinSlot()">LANCER !</button>
+            </div>
+            <p id="slot-msg" style="margin-top: 20px; font-weight: bold; color: var(--barriere-gold);">Alignez 3 symboles identiques pour le Jackpot !</p>
+        </div>
+    </section>
+
+    <!-- FOOTER OFFICIEL -->
+    <footer>
+        <div class="footer-logos">
+            <span style="font-family: 'Playfair Display', serif; font-size: 1.4rem; color: var(--barriere-gold); font-weight: bold;">BARRIÈRE</span>
+            <span style="color: #444;">✕</span>
+            <span style="font-family: 'Montserrat', sans-serif; font-size: 1.4rem; font-style: italic; font-weight: 900; color: var(--pylones-orange);">PYLONES</span>
+        </div>
+        <p style="font-size: 0.8rem; color: #555; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+            Hôtel Pylones Paris & Casino Barrière. Tous droits réservés.<br>
+            Les jeux d'argent et de hasard sont interdits aux mineurs. Jouer comporte des risques : endettement, isolement, dépendance. Pour être aidé, appelez le 09-74-75-13-13.
+        </p>
+    </footer>
+
+    <!-- MODAL DE RÉSERVATION INTÉRACTIF -->
+    <div class="modal-overlay" id="booking-modal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal('booking-modal')">✕</button>
+            <h3 style="font-size: 1.6rem; color: var(--pylones-orange); margin-bottom: 20px;">Votre Séjour Pop & Casino</h3>
+            
+            <div style="display: flex; flex-direction: column; gap: 15px;">
+                <div class="form-group">
+                    <label>Votre Nom</label>
+                    <input type="text" id="guest-name" placeholder="Ex: Jean Dupont">
+                </div>
+                <div style="display: flex; gap: 10px;">
+                    <div class="form-group">
+                        <label>Arrivée</label>
+                        <input type="date" id="book-in" onchange="calculateStayTotal()">
+                    </div>
+                    <div class="form-group">
+                        <label>Départ</label>
+                        <input type="date" id="book-out" onchange="calculateStayTotal()">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>Chambre Sélectionnée</label>
+                    <select id="book-room-select" onchange="calculateStayTotal()">
+                        <option value="180">Chambre Madame Lunettes (180€ / nuit)</option>
+                        <option value="280">Suite Bienvenue Pop (280€ / nuit)</option>
+                        <option value="210">Deluxe Bulle Acidulée (210€ / nuit)</option>
+                    </select>
+                </div>
+                <div style="background: #FFF2EB; padding: 15px; border-radius: 10px;">
+                    <div style="display: flex; justify-content: space-between; font-weight: bold;">
+                        <span>Total :</span>
+                        <span id="booking-total-price" style="color: var(--pylones-orange); font-size: 1.3rem;">180 €</span>
+                    </div>
+                    <p style="font-size: 0.75rem; color: #777; margin-top: 5px;">+ Inclus : 50€ de jetons Casino Barrière & Welcome Pack Pylones.</p>
+                </div>
+                <button class="btn-reservation" onclick="confirmReservation()">Confirmer la réservation</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL DU PANIER BOUTIQUE -->
+    <div class="modal-overlay" id="cart-modal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal('cart-modal')">✕</button>
+            <h3 style="font-size: 1.6rem; color: var(--pylones-pink); margin-bottom: 20px;">Votre Panier Pylones</h3>
+            <div id="cart-items-list" style="margin-bottom: 20px; max-height: 250px; overflow-y: auto;">
+                <p style="color: #777;">Votre panier est vide.</p>
+            </div>
+            <div style="border-top: 2px solid #eee; padding-top: 15px; display: flex; justify-content: space-between; font-weight: 800; font-size: 1.2rem; margin-bottom: 20px;">
+                <span>Total :</span>
+                <span id="cart-total-price" style="color: var(--pylones-orange);">0.00 €</span>
+            </div>
+            <button class="btn-reservation" style="width: 100%;" onclick="checkoutCart()">Finaliser ma commande</button>
+        </div>
+    </div>
+
+    <!-- SCRIPTS INTERACTIFS -->
+    <script>
+        const today = new Date();
         const tomorrow = new Date();
         tomorrow.setDate(today.getDate() + 2);
         
@@ -151,4 +754,7 @@ The URL you entered is not correctly formatted.<!DOCTYPE html><html lang="fr"><h
             } else {
                 document.getElementById('slot-msg').innerText = "Pas de chance pour ce coup-ci... Rejouez !";
             }
-        }</script></body></html>
+        }
+    </script>
+</body>
+</html>
